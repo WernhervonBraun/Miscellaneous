@@ -24,7 +24,7 @@ var task = Task.RunNew(()=>{
 ```
 Класс поддерживает как анонимные методы, так и анонимные функции.
 
-Класс **ControlRunUIExtention** - метод-расширение RunUIContext аналогичный одноименному в Android SDK (Activity.ControlRunUIExtention)
+Класс **ControlRunUIExtention** - метод-расширение RunUIContext аналогичный одноименному в Android SDK (Activity.RunUIContext)
 
 Пример:
 ```
